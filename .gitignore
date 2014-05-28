@@ -1,0 +1,5 @@
+.idea
+*.jar
+*.iml
+/design
+setupInstructions.txt
